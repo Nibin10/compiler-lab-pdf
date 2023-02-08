@@ -1,0 +1,7 @@
+lex program
+
+
+gedit fname.l
+lex fname.l
+gcc lex.yy.c
+./a.out
