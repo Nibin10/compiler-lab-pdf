@@ -1,0 +1,8 @@
+#include<stdio.h>
+{
+//single line comment
+printf("Hello World");
+/* multi
+line 
+comment*/
+}
