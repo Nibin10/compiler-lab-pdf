@@ -8,7 +8,7 @@
 %%
 int main()
 {
-yyin=fopen("samplecoment.txt","r");
+yyin=fopen("samplecomment.txt","r");
 yylex();
 }
 int yywrap()
