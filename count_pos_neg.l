@@ -10,7 +10,7 @@ int pcount=0,ncount=0;
 %%
 int main()
 {
-yyin=fopen("sample.txt","r");
+yyin=fopen("samplecountpos.txt","r");
 yylex();
 printf("postive numbers :%d\n",pcount);
 printf("negative numbers :%d\n",ncount);
